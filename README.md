@@ -10,9 +10,6 @@ A Flutter application for managing items through a REST API. This app demonstrat
 - Delete items with confirmation
 - Clean and modern Material Design UI
 
-## Screenshots
-
-*(Add screenshots of your application here)*
 
 ## API Integration
 
@@ -33,27 +30,6 @@ This app connects to a REST API (using JSONPlaceholder as a demo) to perform the
 - Android Studio / VS Code
 - An emulator or physical device for testing
 
-### Installation
-
-1. Clone this repository
-   ```
-   git clone https://github.com/yourusername/flutter_item_manager.git
-   ```
-
-2. Navigate to the project directory
-   ```
-   cd flutter_item_manager
-   ```
-
-3. Install dependencies
-   ```
-   flutter pub get
-   ```
-
-4. Run the app
-   ```
-   flutter run
-   ```
 
 ## Project Structure
 
@@ -70,16 +46,3 @@ lib/
     ├── edit_item_widget.dart   # Edit item screen
     └── item_detail_widget.dart # Item detail screen
 ```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Flutter team for creating an amazing framework
-- JSONPlaceholder for the free fake API for testing and prototyping
